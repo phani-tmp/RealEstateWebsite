@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.a {
+    color: white;
+    background: linear-gradient(174.48deg, #00B3B7 -12.41%, #B1FF74 137.18%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+.b {
+    background-color: #FFFFFF;
+    height: 100vh;
+}
+
+.c {
+    background-color: black;
+    color: white;
+    border-radius: 18px;
+    padding: 10px;
+    width: 100px;
+}
+
+.d {
+    height: 80px;
+}
+
+.e {
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.f {
+    color: #42f54e;
+    font-weight: bold;
+}
+
+.g {
+    color: Grey;
+}
+
+.h {
+    background-color: #f0efed;
+    height: 330px;
+    width: 250px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.j {
+    color: black;
+    font-weight: 800;
+}
+
+.i {
+    color: black;
+    font-size: 13px;
+}
+
+.k {
+    border-radius: 20px;
+}
+
+.l {
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+    color: green;
+    border-radius: 15px;
+    width: 60px;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.m {
+    color: black;
+    font-size: 15px;
+}
+
+.n {
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+
+    color: black;
+}
+
+.o {
+    height: 100px;
+}
+
+.p {
+    text-decoration: underline;
+    font-weight: 800;
+    font-family: Monoton;
+}
+
+.q {
+    font-size: 25px;
+}
+
+.r {
+    height: 380px;
+}
+
+.s {
+    background: linear-gradient(174.48deg, #00B3B7 -12.41%, #B1FF74 137.18%);
+    height: 100vh;
+    color: white;
+}
+
+.t {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.u {
+    font-size: 28px;
+}
+
+.v {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.w {
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+}
+
+.x {
+    background-color: white;
+}
+
+.y {
+    background-color: black;
+    border-radius: 25px;
+    width: 100px;
+    height: 50px;
+}
+
+.z {
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.ab {
+    background-color: #3B393A;
+    height: 50vh;
+    width: 100vw;
+}
+
+.ac {
+    width: 30vw;
+    color: #A2A2A2;
+}
+
+.ad {
+    color: #A2A2A2;
+    font-size: 23px;
+}
+
+.ae {
+    color: white;
+}
